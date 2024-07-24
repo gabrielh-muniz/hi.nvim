@@ -1,4 +1,4 @@
-# Hi.nvim
+# hi.nvim
 
 A plugin that will greet you every time you open your beloved editor
 
@@ -35,7 +35,8 @@ or
 
 {
   "gabrielh-muniz/hi.nvim",
-  opts = { name = "there!" }
+  opts = { name = "there!" },
+}
 ```
 
 If you have an idea, feel free to share or contribute.
